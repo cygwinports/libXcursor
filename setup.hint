@@ -1,4 +1,3 @@
 category: X11
-requires: cygwin libX11 libXfixes libXrender xproto
-sdesc: "Xorg Xcursor library (development)"
+sdesc: "Xorg Xcursor library (documentation)"
 ldesc: "Xorg Xcursor library"

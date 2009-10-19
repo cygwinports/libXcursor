@@ -8,6 +8,7 @@ Runtime requirements:
   libX11_6-1.2.2-1
   libXfixes3-4.0.3-10
   libXrender1-0.9.4-10
+  xcursor-themes-1.0.2-1
 
 Build requirements:
 (besides corresponding devel packages)

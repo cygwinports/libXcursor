@@ -1,7 +1,6 @@
 inherit xorg
 
-PKG_NAMES="${PN} ${PN}1 ${PN}-devel"
-PKG_HINTS="setup runtime devel"
-libXcursor_CONTENTS=	# empty
+PKG_NAMES="${PN}1 ${PN}-devel"
+PKG_HINTS="runtime devel"
 libXcursor1_CONTENTS="usr/bin/cygXcursor-1.dll usr/share/doc/"
 libXcursor_devel_CONTENTS="usr/include/ usr/lib/ usr/share/man/"

@@ -1,12 +1,12 @@
 inherit xorg
 
 NAME="libXcursor"
-VERSION=1.1.13
+VERSION=1.1.14
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X.Org Xcursor library"
 DESCRIPTION="X.Org Xcursor library"
 
-PKG_NAMES="${PN}1 ${PN}-devel"
+PKG_NAMES="${NAME}1 ${NAME}-devel"
 libXcursor1_CONTENTS="usr/bin/cygXcursor-1.dll usr/share/doc/"
 libXcursor_devel_CONTENTS="usr/include/ usr/lib/ usr/share/man/"

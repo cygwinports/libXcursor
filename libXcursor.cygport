@@ -3,7 +3,7 @@ inherit xorg
 NAME="libXcursor"
 VERSION=1.1.14
 RELEASE=1
-CATEGORY="X11"
+CATEGORY="Libs"
 SUMMARY="X.Org Xcursor library"
 DESCRIPTION="X.Org Xcursor library"
 
